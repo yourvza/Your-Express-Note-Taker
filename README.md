@@ -3,7 +3,8 @@
 ## Description
 
 Users will be able to open the note taker and click on note title and note text in which they can write any needed memos/notes. They will be able to save the notes or choose to delete if they wish
-![note taker](https://github.com/yourvza/Your-Express-Note-Taker/assets/155742735/75a376f7-d60e-4510-bdf9-fe635bf91845)
+![note taker](https://github.com/yourvza/Your-Express-Note-Taker/assets/155742735/8d50b819-10b2-46d8-b1ed-1c5409097506)
+
 
 
 ## Table of Contents
